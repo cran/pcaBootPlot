@@ -1,0 +1,8 @@
+befd2f9a82e4b3d43a5a977dc15c061b *DESCRIPTION
+1b9e5135cc244a8511847bc73193fe3c *NAMESPACE
+b37bcb7cd04601899a80d7cd5071d16c *R/pcaBootPlot.R
+86c4b21a2a66135a41466811cb50df30 *build/vignette.rds
+66e46f586acfcb6610af03abc880d09e *inst/doc/pcaBootPlot.Rmd
+040b2fce0d5c3c85c1f4b6f59cf4f214 *inst/doc/pcaBootPlot.html
+0008249e085d259e034e1c38e1a92afa *man/pcaBootPlot.Rd
+66e46f586acfcb6610af03abc880d09e *vignettes/pcaBootPlot.Rmd
